@@ -7,11 +7,11 @@ const reseñaSchema = new mongoose.Schema({
     required: true,
   },
   puntuacion: { type: Number, required: true, min: 1, max: 5 },
-  textoReseña: { type: String, trim: true },
+  textoResena: { type: String, trim: true },
   horasJugadas: { type: Number, default: 0 },
   dificultad: {
     type: String,
-    enum: ["Fácil", "Normal", "Difícil"],
+    enum: ["Fácil", "Normal", "Difícil", "Dificil"],
     default: "Normal",
   },
   recomendaria: { type: Boolean, default: true },

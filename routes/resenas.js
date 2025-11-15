@@ -1,6 +1,5 @@
 import express from "express";
 import Resena from "../models/resena.js"; // renombrado para evitar la ñ
-
 const router = express.Router();
 
 // ✅ GET - Todas las reseñas

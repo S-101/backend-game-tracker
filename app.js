@@ -1,4 +1,4 @@
-// app.js
+// app.js ---- Hola mundo!!!
 import express from "express";
 import cors from "cors";
 import mongoose from "mongoose";
