@@ -12,3 +12,7 @@ debe aparecer esto:
 ✅ Conectado a MongoDB
 
  si aparecen estos datos. Significa que te conectaste correctamente. 
+
+si quieres la funcionalidad completa ver los juegos, subir, editar, eliminar, reseñas. etc. requieres descargar el REPOSITORIO del backend.
+
+ > https://github.com/S-101/frontend-game-tracker
